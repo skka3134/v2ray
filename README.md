@@ -1,41 +1,12 @@
 # [关注我，不迷路！](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fw379740999)
 
-欢迎加入我的节点电报群：https://t.me/vvkj11
+欢迎加入我的节点电报群：https://t.me/qiangfanfan
 (有任何问题在群里给我反馈，谢谢)
-
-欢迎订阅我的YouTube频道（VV科技）：[点击订阅](https://www.youtube.com/channel/UCqdGfxwYKrllrHv_Bc-9vAw?sub_confirmation=1)
-(第一时间优先在youtube频道发布）
-
-## 安卓应用—-破解频道（欢迎大家加入）
-
-**频道：https://t.me/vvkj1**
-
-====================================================
-
-## 便宜机场推荐（速度快价格便宜）
-
-**【飞鸟云机场】优惠码：150m0Une** [点击注册](https://feiniaoyun10.life/#/register?code=150m0Une)
-
-**【新开高速IEPL专线机场，5元撸220G套餐】优惠码：88vip** [点击注册](https://hongxingdl.com/web/#/login?code=Yl8rfX6T)
-
-**【各种帐号购买】** [点击注册](https://wandoukj.eu.org/)
-
-====================================================
-
-## 免费订阅(不会使用的进电报群)
-
-PS:如果不能正常更新，请在外网状态下更新-(安卓版Clash请使用Clash Meta)
-
-🚀通用订阅：https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
-
-🚀Clash Meta订阅：https://ghp.ci/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
-
-**【免费白嫖-安易VPN】不限流量，赠送365天** [官网地址](https://www.anyi555.com/?mid=1033)
 
 ====================================================
 
 ## 自建节点
-失效的话，请进电报群获取：https://t.me/vvkj11
+失效的话，请进电报群获取：https://t.me/qiangfanfan
 
 ```
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g#TG-%40vvkj11
